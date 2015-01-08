@@ -1,11 +1,11 @@
 {
-  "name": "grunt-checkFileSize",
-  "description": "The best Grunt plugin ever.",
+  "name": "grunt-check_file_size",
+  "description": "Multi target plugin to check recurssively the size on files in folders.",
   "version": "0.1.0",
   "homepage": "https://github.com/laurent1/grunt-checkFileSize",
   "author": {
     "name": "Laurent Jacquot",
-    "email": "laurentjacquot1@yahoo.com"
+    "email": "laurent1jacquot@gmail.com"
   },
   "repository": {
     "type": "git",
